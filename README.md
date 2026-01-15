@@ -91,7 +91,7 @@ All attacks were successfully detected via Splunk SIEM with custom SPL queries m
 
 For detailed technical analysis, step-by-step attack execution, Splunk detection queries, and comprehensive remediation recommendations, please refer to the complete report:
 
-📄 **[AD_Penetration_Testing_Lab_Report.pdf](./AD_Penetration_Testing_Lab_Report.pdf)**
+📄 **[![View Report](https://img.shields.io/badge/View-Report-blue?style=for-the-badge)](./AD_Penetration_Testing_Lab_Report.pdf)**
 
 The report includes:
 - Complete lab architecture and network diagrams
